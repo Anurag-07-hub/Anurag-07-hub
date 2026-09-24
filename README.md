@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Anurag-07-hub's GitHub profile" src="dark_mode.svg" />
-</picture>
-
 - 👋 Hi, I’m @Anurag-07-hub
 - Mechanical Engineering Students which has  to learn a lot and to do some creativity.
 - 👀 I’m interested in ... Robotics,Engineering and the chemistry of the world and I Love watch Youtube videos the most
