@@ -1,4 +1,39 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="420" viewBox="0 0 800 420">
-  <title>Anurag-07-hub GitHub profile card (dark theme)</title>
-  <image href="https://gh.crafter.run/Anurag-07-hub?theme=dark" x="0" y="0" width="800" height="420" preserveAspectRatio="xMidYMid meet" />
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="420" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">Anurag-07-hub GitHub profile card</title>
+  <desc id="desc">Dark-themed ASCII style GitHub profile card for Anurag-07-hub.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020817"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0b1120"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="420" fill="url(#bg)" rx="28"/>
+  <rect x="32" y="32" width="1336" height="356" fill="url(#panel)" stroke="#334155" rx="24"/>
+
+  <g font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" fill="#e2e8f0">
+    <text x="72" y="110" font-size="22" fill="#7dd3fc">Anurag-07-hub</text>
+    <text x="72" y="145" font-size="18" fill="#94a3b8">Mechanical Engineering Student</text>
+
+    <text x="72" y="228" font-size="18" fill="#f8fafc">   ___</text>
+    <text x="72" y="250" font-size="18" fill="#f8fafc">  / _ \_ __ ___</text>
+    <text x="72" y="272" font-size="18" fill="#f8fafc"> | | | | '_ ` _ \</text>
+    <text x="72" y="294" font-size="18" fill="#f8fafc"> | |_| | | | | | |</text>
+    <text x="72" y="316" font-size="18" fill="#f8fafc">  \___/|_| |_| |_|</text>
+
+    <text x="520" y="150" font-size="26" fill="#f8fafc">Robotics • Engineering • World of tech</text>
+    <text x="520" y="190" font-size="22" fill="#a5f3fc">Learning:</text>
+    <text x="520" y="222" font-size="22" fill="#dbeafe">Arduino, C++, Embedded Systems, Web Dev</text>
+    <text x="520" y="260" font-size="20" fill="#cbd5e1">Currently exploring creative solutions and practical builds</text>
+    <text x="520" y="300" font-size="20" fill="#cbd5e1">Open to collaboration, learning, and meaningful projects</text>
+  </g>
+
+  <g transform="translate(1130 78)">
+    <circle cx="72" cy="72" r="72" fill="#1e293b" stroke="#38bdf8" stroke-width="4"/>
+    <circle cx="72" cy="72" r="54" fill="#0f172a" stroke="#f8fafc" stroke-width="2"/>
+    <text x="72" y="82" text-anchor="middle" font-size="52" font-family="monospace" fill="#f8fafc">A</text>
+  </g>
 </svg>
