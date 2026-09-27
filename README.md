@@ -1,19 +1,13 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+    <img alt="Anurag-07-hub's GitHub profile card" src="dark_mode.svg" width="1100" />
+  </picture>
+</div>
 
-<table>
-  <tr>
-    <td valign="top">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="Anurag-07-hub's GitHub profile" src="dark_mode.svg" />
-</picture>
-
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+  <p><i>⚙️ Building robotics, electronics, and creative engineering ideas.</i></p>
 </div>
 
 ---
